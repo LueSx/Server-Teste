@@ -1,0 +1,301 @@
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       172] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       172] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       188] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       188] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       203] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       203] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       219] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       219] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       219] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       234] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       234] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       234] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       250] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       250] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       266] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       266] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       266] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       281] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       281] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       297] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       297] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       297] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       344] Started resource sessionmanager
+[       359] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       140] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       140] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       140] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       187] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       203] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       234] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       281] Started resource sessionmanager
+[       297] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        94] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       140] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       140] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       140] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       187] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       203] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       203] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       234] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       250] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       281] Started resource sessionmanager
+[       297] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       140] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       140] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       140] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       187] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       203] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       203] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       234] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       250] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       297] Started resource sessionmanager
+[       312] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        32] Hello!
+[        63] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       141] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       141] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       157] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       157] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       172] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       172] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       188] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       188] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       204] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       204] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       204] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       219] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       235] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       235] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       235] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       250] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       266] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       266] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       266] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       282] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       297] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       297] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       344] Started resource sessionmanager
+[       360] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       140] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       140] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       140] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       187] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       203] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       203] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       218] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       218] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       234] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       250] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       250] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       281] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       328] Started resource sessionmanager
+[       328] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       140] Resource loading for fivem failed:
+[       140] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       140] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       140] Resource loading for fivem-awesome1501 failed:
+[       140] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       156] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       156] Resource loading for fivem-map-hipster failed:
+[       156] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       156] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       171] Resource loading for fivem-map-skater failed:
+[       171] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       171] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       171] Resource loading for runcode failed:
+[       171] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       187] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       187] Resource loading for race failed:
+[       187] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       187] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       187] Resource loading for race-test failed:
+[       187] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       203] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       203] Resource loading for channelfeed failed:
+[       203] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       203] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       218] Resource loading for irc failed:
+[       218] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       218] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       218] Resource loading for obituary failed:
+[       218] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       234] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       234] Resource loading for obituary-deaths failed:
+[       234] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       234] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       250] Resource loading for playernames failed:
+[       250] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       250] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       265] Resource loading for mapmanager failed:
+[       265] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       265] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       265] Resource loading for baseevents failed:
+[       265] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       281] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       281] Resource loading for chat failed:
+[       281] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       281] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       296] Resource loading for hardcap failed:
+[       296] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       296] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       296] Resource loading for rconlog failed:
+[       296] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       312] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       312] Resource loading for scoreboard failed:
+[       312] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       312] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       312] Resource loading for sessionmanager failed:
+[       328] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       328] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       328] Resource loading for spawnmanager failed:
+[       328] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       343] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       343] Resource loading for betaguns failed:
+[       343] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       343] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       359] Resource loading for gameInit failed:
+[       359] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       359] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       359] Resource loading for keks failed:
+[       359] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       359] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       375] Resource loading for vrp failed:
+[       375] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       375] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       375] Resource loading for vrp_mysql failed:
+[       375] Could not open resource metadata file citizen:/scripting/lua/json.lua.
+[       375] Started resource sessionmanager
+[       390] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       140] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       140] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       156] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       156] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       171] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       171] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       171] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       187] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       187] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       203] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       203] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       203] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       218] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       218] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       234] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       234] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       250] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       250] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       265] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       281] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       281] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       296] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       296] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       296] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       343] Started resource sessionmanager
+[     17250] Started resource mapmanager
+[     17578] Started resource chat
+[     17625] Started resource spawnmanager
+[     17656] Started resource fivem
+[     17656] Started gametype Freeroam
+[     17718] Started resource hardcap
+[     17765] Started resource rconlog
+[     17859] Started resource scoreboard
+[     17937] Started resource playernames
+[     17953] Authenticating server license key...
+[     19312] Server license key authentication succeeded. Welcome!
+[     19359] Sending heartbeat to live-internal.fivem.net:30110
+[     19375] Started resource fivem-map-hipster
+[     19375] Started map fivem-map-hipster
