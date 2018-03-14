@@ -1021,3 +1021,262 @@
 [   1160875] Sending heartbeat to live-internal.fivem.net:30110
 [   1171562] [vRP] 25.71.251.201 disconnected (user_id = 1)
 [   1171578] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        78] Initializing Mono completed
+[       125] Hello!
+[       187] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       312] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       328] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       328] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       344] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       344] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       344] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       359] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       359] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       359] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       375] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       375] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       391] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       391] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       406] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       422] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       422] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       422] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       437] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       437] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       453] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       453] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       469] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       469] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       469] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       484] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       625] Started resource sessionmanager
+[       656] Started resource mapmanager
+[       672] Started resource chat
+[       672] Started resource spawnmanager
+[       687] Started resource fivem
+[       687] Started gametype Freeroam
+[       703] Started resource hardcap
+[       703] Started resource rconlog
+[       719] Started resource scoreboard
+[       734] Started resource playernames
+[      1375] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2065101307
+[      1469] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[      1469] 
+[      1469] 
+[      1469] Server stack trace: 
+[      1469]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1469]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1469]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1469]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      1469]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1469]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      1469] 
+[      1484] Exception rethrown at [0]: 
+[      1484]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1484]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      1500] Instantiated instance of script vRP.MySQL.
+[      1516] Started resource vrp_mysql
+[      1781] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2065101307
+[      1969] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2065101307
+[      2344] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2065101307
+[      2359] [vRP] launch version 1498403827
+[      2406] [vRP] init base tables
+[      3141] Started resource vrp
+[      3156] Authenticating server license key...
+[      4547] Server license key authentication succeeded. Welcome!
+[      4609] Sending heartbeat to live-internal.fivem.net:30110
+[      4719] Started resource fivem-map-hipster
+[      4734] Started map fivem-map-hipster
+[      4766] hitch warning: frame time of 151 milliseconds
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       140] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       140] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       140] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       156] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       171] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       171] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       187] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       187] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       203] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       203] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       218] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       218] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       234] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       250] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       250] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       265] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       296] Started resource sessionmanager
+[       312] Started resource mapmanager
+[       328] Started resource chat
+[       343] Started resource spawnmanager
+[       343] Started resource fivem
+[       343] Started gametype Freeroam
+[       359] Started resource hardcap
+[       359] Started resource rconlog
+[       375] Started resource scoreboard
+[       390] Started resource playernames
+[       921] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_158630901
+[      1000] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[      1000] 
+[      1000] 
+[      1000] Server stack trace: 
+[      1000]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1000]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1000]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1000]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      1000]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1000]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      1000] 
+[      1000] Exception rethrown at [0]: 
+[      1000]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1000]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      1031] Instantiated instance of script vRP.MySQL.
+[      1046] Started resource vrp_mysql
+[      1203] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_158630901
+[      1328] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_158630901
+[      1515] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_158630901
+[      1531] [vRP] launch version 1498403827
+[      1562] [vRP] init base tables
+[      1671] Started resource vrp
+[      1671] Authenticating server license key...
+[      3109] Server license key authentication succeeded. Welcome!
+[      3171] Sending heartbeat to live-internal.fivem.net:30110
+[      3171] Started resource fivem-map-hipster
+[      3171] Started map fivem-map-hipster
+[     30406] Connecting: QAP COPOM csdust.com
+[     30625] [vRP] QAP COPOM csdust.com (25.92.137.82) joined (user_id = 2)
+[     30828] Connecting: Lue ¯\_(ツ)_/¯
+[     31125] [vRP] Lue ¯\_(ツ)_/¯ (25.71.251.201) joined (user_id = 1)
+[     32171] Sending heartbeat to live-internal.fivem.net:30110
+[     34515] Sending heartbeat to live-internal.fivem.net:30110
+[    214546] Sending heartbeat to live-internal.fivem.net:30110
+[    241937] [vRP] task 44 failed.
+[    241953] hitch warning: frame time of 151 milliseconds
+[    298562] [vRP] 25.92.137.82 disconnected (user_id = 2)
+[    298593] Sending heartbeat to live-internal.fivem.net:30110
+[    320765] Got a late vouch for Lue ¯\_(ツ)_/¯ - they're the current arbitrator!
+[    353453] Connecting: QAP COPOM csdust.com
+[    358500] [vRP] QAP COPOM csdust.com (25.92.137.82) rejected: identification error
+[    370937] Connecting: QAP COPOM csdust.com
+[    375953] [vRP] QAP COPOM csdust.com (25.92.137.82) rejected: identification error
+[    381484] Connecting: QAP COPOM csdust.com
+[    386515] [vRP] QAP COPOM csdust.com (25.92.137.82) rejected: identification error
+[    388562] Connecting: QAP COPOM csdust.com
+[    393609] [vRP] QAP COPOM csdust.com (25.92.137.82) rejected: identification error
+[    395718] Connecting: QAP COPOM csdust.com
+[    400765] [vRP] QAP COPOM csdust.com (25.92.137.82) rejected: identification error
+[    405906] Connecting: QAP COPOM csdust.com
+[    406875] Connecting: [PMESP] Heisenberg
+[    410921] [vRP] QAP COPOM csdust.com (25.92.137.82) rejected: identification error
+[    411921] [vRP] [PMESP] Heisenberg (25.1.211.238) rejected: identification error
+[    418906] Connecting: QAP COPOM csdust.com
+[    420921] Connecting: [PMESP] Heisenberg
+[    423921] [vRP] QAP COPOM csdust.com (25.92.137.82) rejected: identification error
+[    425968] [vRP] [PMESP] Heisenberg (25.1.211.238) rejected: identification error
+[    460218] Connecting: QAP COPOM csdust.com
+[    465265] [vRP] QAP COPOM csdust.com (25.92.137.82) rejected: identification error
+[    475968] [vRP] 25.71.251.201 disconnected (user_id = 1)
+[    475984] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        63] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       110] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       110] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       141] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       188] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       188] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       203] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       203] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       219] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       235] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       235] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       235] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       250] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       250] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       250] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       266] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       297] Started resource sessionmanager
+[       328] Started resource mapmanager
+[       344] Started resource chat
+[       344] Started resource spawnmanager
+[       360] Started resource fivem
+[       360] Started gametype Freeroam
+[       360] Started resource hardcap
+[       375] Started resource rconlog
+[       391] Started resource scoreboard
+[       406] Started resource playernames
+[      1125] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_423672541
+[      1203] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[      1203] 
+[      1203] 
+[      1203] Server stack trace: 
+[      1219]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1219]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1219]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1219]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      1219]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1219]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      1219] 
+[      1219] Exception rethrown at [0]: 
+[      1219]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1219]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      1250] Instantiated instance of script vRP.MySQL.
+[      1250] Started resource vrp_mysql
+[      1438] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_423672541
+[      1563] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_423672541
+[      1750] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_423672541
+[      1797] [vRP] launch version 1498403827
+[      1828] [vRP] init base tables
+[      1938] Started resource vrp
+[      1938] Authenticating server license key...
+[      3281] Server license key authentication succeeded. Welcome!
+[      3328] Sending heartbeat to live-internal.fivem.net:30110
+[      3375] Started resource fivem-map-skater
+[      3375] Started map fivem-map-skater
+[      8703] Connecting: QAP COPOM csdust.com
+[      8719] Connecting: [PMESP] Heisenberg
+[      9781] [vRP] [PMESP] Heisenberg (25.1.211.238) joined (user_id = 3)
+[      9828] [vRP] QAP COPOM csdust.com (25.92.137.82) joined (user_id = 2)
+[     12781] Sending heartbeat to live-internal.fivem.net:30110
+[     13438] Sending heartbeat to live-internal.fivem.net:30110
+[     62344] Connecting: Lue ¯\_(ツ)_/¯
+[     62594] [vRP] Lue ¯\_(ツ)_/¯ (25.71.251.201) joined (user_id = 1)
+[     65594] Sending heartbeat to live-internal.fivem.net:30110
+[    245656] Sending heartbeat to live-internal.fivem.net:30110
+[    245891] hitch warning: frame time of 279 milliseconds
+[    388672] [vRP] 25.92.137.82 disconnected (user_id = 2)
+[    388688] Sending heartbeat to live-internal.fivem.net:30110
+[    407750] Connecting: QAP COPOM csdust.com
+[    408000] [vRP] QAP COPOM csdust.com (25.92.137.82) joined (user_id = 2)
+[    408485] Sending heartbeat to live-internal.fivem.net:30110
+[    408766] Got a late vouch for [PMESP] Heisenberg - they're the current arbitrator!
+[    409047] Got a late vouch for [PMESP] Heisenberg - they're the current arbitrator!
+[    421141] Lue ¯\_(ツ)_/¯: a
+[    505906] [vRP] 25.71.251.201 disconnected (user_id = 1)
+[    505922] Sending heartbeat to live-internal.fivem.net:30110
+[    675594] [vRP] 25.92.137.82 disconnected (user_id = 2)
+[    675625] Sending heartbeat to live-internal.fivem.net:30110
