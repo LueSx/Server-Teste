@@ -5,7 +5,7 @@ local cfg = {}
 cfg.city_hall = {-1042.3929443359,-2745.6345214844,21.359401702881}
 
 -- cityhall blip {blipid,blipcolor}
-cfg.blip = {181,4}
+cfg.blip = {498,57}
 
 -- cost of a new identity
 cfg.new_identity_cost = 100
