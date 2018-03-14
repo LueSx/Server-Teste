@@ -3,7 +3,7 @@ local cfg = {}
 
 -- define the first spawn position/radius of the player (very first spawn on the server, or after death)
 cfg.spawn_enabled = true -- set to false to disable the feature
-cfg.spawn_position = {1854.21, 3685.51, 34.2671}
+cfg.spawn_position = {-1045.9558105469,-2751.8718261719,21.363426208496}
 cfg.spawn_radius = 1
 
 -- customization set when spawning for the first time
@@ -11,7 +11,7 @@ cfg.spawn_radius = 1
 -- mp_m_freemode_01 (male)
 -- mp_f_freemode_01 (female)
 cfg.default_customization = {
-  model = "mp_m_freemode_01" 
+  model = "mp_m_freemode_01"
 }
 
 -- init default ped parts
