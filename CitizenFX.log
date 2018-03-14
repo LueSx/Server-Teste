@@ -299,3 +299,725 @@
 [     19359] Sending heartbeat to live-internal.fivem.net:30110
 [     19375] Started resource fivem-map-hipster
 [     19375] Started map fivem-map-hipster
+[        15] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       140] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       140] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       140] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       156] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       156] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       171] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       171] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       171] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       187] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       187] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       203] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       203] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       203] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       218] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       218] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       218] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       234] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       234] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       250] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       250] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       265] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       265] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       312] Started resource sessionmanager
+[       343] Started resource mapmanager
+[       359] Started resource chat
+[       359] Started resource spawnmanager
+[       359] Started resource fivem
+[       359] Started gametype Freeroam
+[       375] Started resource hardcap
+[       390] Started resource rconlog
+[       390] Started resource scoreboard
+[       406] Started resource playernames
+[       406] Authenticating server license key...
+[      1765] Server license key authentication succeeded. Welcome!
+[      1828] Sending heartbeat to live-internal.fivem.net:30110
+[      1828] Started resource fivem-map-skater
+[      1828] Started map fivem-map-skater
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[        94] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       141] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       141] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       156] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       156] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       156] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       172] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       172] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       188] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       188] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       188] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       203] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       203] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       219] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       219] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       234] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       234] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       250] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       250] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       250] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       266] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       266] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       313] Started resource sessionmanager
+[       328] Started resource mapmanager
+[       344] Started resource chat
+[       344] Started resource spawnmanager
+[       359] Started resource fivem
+[       359] Started gametype Freeroam
+[       359] Started resource hardcap
+[       375] Started resource rconlog
+[       391] Started resource scoreboard
+[       391] Started resource playernames
+[       391] Authenticating server license key...
+[      1672] Server license key authentication succeeded. Welcome!
+[      1719] Sending heartbeat to live-internal.fivem.net:30110
+[      1719] Started resource fivem-map-hipster
+[      1734] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       141] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       141] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       156] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       156] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       156] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       172] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       172] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       188] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       188] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       203] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       203] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       219] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       219] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       219] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       234] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       234] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       234] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       250] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       250] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       266] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       266] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       266] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       313] Started resource sessionmanager
+[       328] Started resource mapmanager
+[       359] Started resource chat
+[       359] Started resource spawnmanager
+[       359] Started resource fivem
+[       359] Started gametype Freeroam
+[       375] Started resource hardcap
+[       391] Started resource rconlog
+[       391] Started resource scoreboard
+[       422] Started resource playernames
+[       422] Authenticating server license key...
+[      1766] Server license key authentication succeeded. Welcome!
+[      1828] Sending heartbeat to live-internal.fivem.net:30110
+[      1828] Started resource fivem-map-skater
+[      1828] Started map fivem-map-skater
+[     30531] Connecting: Lue ¯\_(ツ)_/¯
+[     36625] Sending heartbeat to live-internal.fivem.net:30110
+[    181859] hitch warning: frame time of 309 milliseconds
+[    182016] hitch warning: frame time of 167 milliseconds
+[    186406] hitch warning: frame time of 157 milliseconds
+[    216641] Sending heartbeat to live-internal.fivem.net:30110
+[    216906] hitch warning: frame time of 252 milliseconds
+[    396906] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       156] Initializing Mono completed
+[       219] Hello!
+[       281] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       344] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       391] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       391] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       406] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       406] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       406] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       422] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       422] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       437] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       437] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       453] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       453] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       453] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       469] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       469] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       500] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       500] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       516] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       516] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       516] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       531] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       531] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       531] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       547] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       562] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       719] Started resource sessionmanager
+[       922] Started resource mapmanager
+[      1000] Started resource chat
+[      1000] Started resource spawnmanager
+[      1031] Started resource fivem
+[      1047] Started gametype Freeroam
+[      1078] Started resource hardcap
+[      1125] Started resource rconlog
+[      1156] Started resource scoreboard
+[      1219] Started resource playernames
+[      2000] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2141006245
+[      2141] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[      2141] 
+[      2141] 
+[      2141] Server stack trace: 
+[      2156]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2156]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      2156]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      2156]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      2156]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      2156]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      2156] 
+[      2156] Exception rethrown at [0]: 
+[      2156]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      2156]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      2187] Instantiated instance of script vRP.MySQL.
+[      2328] Started resource vrp_mysql
+[      3484] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2141006245
+[      4562] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2141006245
+[      6328] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2141006245
+[      6609] [vRP] launch version 1498403827
+[      6687] [vRP] init base tables
+[      8125] Started resource vrp
+[      8156] Authenticating server license key...
+[      9594] Server license key authentication succeeded. Welcome!
+[      9656] Sending heartbeat to live-internal.fivem.net:30110
+[      9672] Started resource fivem-map-skater
+[      9672] Started map fivem-map-skater
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       141] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       141] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       156] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       187] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       187] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       203] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       203] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       219] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       234] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       250] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       250] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       266] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       266] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       312] Started resource sessionmanager
+[       328] Started resource mapmanager
+[       344] Started resource chat
+[       344] Started resource spawnmanager
+[       344] Started resource fivem
+[       344] Started gametype Freeroam
+[       359] Started resource hardcap
+[       375] Started resource rconlog
+[       375] Started resource scoreboard
+[       391] Started resource playernames
+[       906] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_902715907
+[       984] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[       984] 
+[       984] 
+[      1000] Server stack trace: 
+[      1000]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1000]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1000]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1000]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      1000]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1000]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      1000] 
+[      1000] Exception rethrown at [0]: 
+[      1000]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1000]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      1031] Instantiated instance of script vRP.MySQL.
+[      1031] Started resource vrp_mysql
+[      1203] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_902715907
+[      1344] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_902715907
+[      1516] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_902715907
+[      1562] [vRP] launch version 1498403827
+[      1594] [vRP] init base tables
+[      1672] Started resource vrp
+[      1672] Authenticating server license key...
+[      2953] Server license key authentication succeeded. Welcome!
+[      3016] Sending heartbeat to live-internal.fivem.net:30110
+[      3031] Started resource fivem-map-hipster
+[      3031] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[        94] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       141] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       187] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       187] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       203] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       250] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       250] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       266] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       297] Started resource sessionmanager
+[       312] Started resource mapmanager
+[       328] Started resource chat
+[       344] Started resource spawnmanager
+[       344] Started resource fivem
+[       344] Started gametype Freeroam
+[       359] Started resource hardcap
+[       375] Started resource rconlog
+[       375] Started resource scoreboard
+[       391] Started resource playernames
+[       922] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_137624381
+[      1000] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[      1000] 
+[      1000] 
+[      1000] Server stack trace: 
+[      1000]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1000]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1016]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1016]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      1016]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1016]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      1016] 
+[      1016] Exception rethrown at [0]: 
+[      1016]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1016]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      1047] Instantiated instance of script vRP.MySQL.
+[      1047] Started resource vrp_mysql
+[      1219] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_137624381
+[      1359] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_137624381
+[      1562] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_137624381
+[      1578] [vRP] launch version 1498403827
+[      1609] [vRP] init base tables
+[      1719] Started resource vrp
+[      1719] Authenticating server license key...
+[      2969] Server license key authentication succeeded. Welcome!
+[      3031] Sending heartbeat to live-internal.fivem.net:30110
+[      3031] Started resource fivem-map-skater
+[      3047] Started map fivem-map-skater
+[     34859] hitch warning: frame time of 229 milliseconds
+[    111000] Connecting: Lue ¯\_(ツ)_/¯
+[    112156] [vRP] Lue ¯\_(ツ)_/¯ (192.168.1.31) joined (user_id = 1)
+[    114797] Sending heartbeat to live-internal.fivem.net:30110
+[    210234] hitch warning: frame time of 184 milliseconds
+[    210672] hitch warning: frame time of 432 milliseconds
+[    294844] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       156] Initializing Mono completed
+[       171] Hello!
+[       250] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       296] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       328] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       343] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       343] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       343] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       359] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       359] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       359] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       375] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       375] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       390] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       390] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       390] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       406] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       406] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       406] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       421] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       421] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       437] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       437] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       437] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       453] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       453] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       453] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       484] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       593] Started resource sessionmanager
+[       640] Could not bind on 25.71.251.201:30120 - is this address valid and not already in use?
+[       687] Started resource mapmanager
+[       765] Started resource chat
+[       781] Started resource spawnmanager
+[       781] Started resource fivem
+[       796] Started gametype Freeroam
+[       812] Started resource hardcap
+[       859] Started resource rconlog
+[       875] Started resource scoreboard
+[       937] Started resource playernames
+[       953] Authenticating server license key...
+[      2281] Server license key authentication succeeded. Welcome!
+[      2375] Sending heartbeat to live-internal.fivem.net:30110
+[      2406] Started resource fivem-map-skater
+[      2406] Started map fivem-map-skater
+[     93875] Initializing Mono
+[     93890] Initializing Mono completed
+[     93890] Hello!
+[     93937] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[     93984] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[     93984] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[     94000] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[     94000] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[     94000] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[     94015] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[     94015] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[     94015] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[     94031] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[     94031] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[     94046] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[     94046] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[     94062] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[     94062] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[     94078] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[     94078] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[     94078] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[     94093] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[     94093] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[     94109] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[     94109] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[     94109] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[     94125] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[     94125] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[     94140] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[     94171] Started resource sessionmanager
+[     94203] Started resource mapmanager
+[     94218] Started resource chat
+[     94218] Started resource spawnmanager
+[     94218] Started resource fivem
+[     94234] Started gametype Freeroam
+[     94234] Started resource hardcap
+[     94250] Started resource rconlog
+[     94265] Started resource scoreboard
+[     94281] Started resource playernames
+[     94281] Authenticating server license key...
+[     95562] Server license key authentication succeeded. Welcome!
+[     95625] Sending heartbeat to live-internal.fivem.net:30110
+[     95625] Started resource fivem-map-skater
+[     95625] Started map fivem-map-skater
+[    109140] Connecting: Lue ¯\_(ツ)_/¯
+[    109781] Sending heartbeat to live-internal.fivem.net:30110
+[    164781] Connecting: QAP COPOM csdust.com
+[    165937] Sending heartbeat to live-internal.fivem.net:30110
+[    346062] Sending heartbeat to live-internal.fivem.net:30110
+[    346312] hitch warning: frame time of 362 milliseconds
+[    526328] Sending heartbeat to live-internal.fivem.net:30110
+[    706437] Sending heartbeat to live-internal.fivem.net:30110
+[    886578] Sending heartbeat to live-internal.fivem.net:30110
+[    887015] hitch warning: frame time of 444 milliseconds
+[   1067046] Sending heartbeat to live-internal.fivem.net:30110
+[   1247171] Sending heartbeat to live-internal.fivem.net:30110
+[   1427187] Sending heartbeat to live-internal.fivem.net:30110
+[   1607234] Sending heartbeat to live-internal.fivem.net:30110
+[   1787265] Sending heartbeat to live-internal.fivem.net:30110
+[   1967296] Sending heartbeat to live-internal.fivem.net:30110
+[   2147328] Sending heartbeat to live-internal.fivem.net:30110
+[   2309281] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       266] Initializing Mono completed
+[       438] Hello!
+[       547] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       750] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       797] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       797] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       797] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       813] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       813] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       828] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       828] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       828] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       844] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       844] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       860] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       860] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       860] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       875] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       875] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       875] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       891] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       891] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       906] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       906] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       906] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       922] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       922] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       922] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[      1188] Started resource sessionmanager
+[      1797] Started resource mapmanager
+[      2047] Started resource chat
+[      2125] Started resource spawnmanager
+[      2156] Started resource fivem
+[      2156] Started gametype Freeroam
+[      2219] Started resource hardcap
+[      2360] Started resource rconlog
+[      2531] Started resource scoreboard
+[      2766] Started resource playernames
+[      2781] Authenticating server license key...
+[      4344] Server license key authentication succeeded. Welcome!
+[      4391] Sending heartbeat to live-internal.fivem.net:30110
+[      4547] Started resource fivem-map-hipster
+[      4563] Started map fivem-map-hipster
+[      4563] hitch warning: frame time of 162 milliseconds
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        16] Hello!
+[        94] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       110] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       110] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       110] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       141] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       188] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       188] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       188] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       235] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       235] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       250] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       250] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       297] Started resource sessionmanager
+[       313] Started resource mapmanager
+[       328] Started resource chat
+[       328] Started resource spawnmanager
+[       328] Started resource fivem
+[       344] Started gametype Freeroam
+[       344] Started resource hardcap
+[       360] Started resource rconlog
+[       360] Started resource scoreboard
+[       375] Started resource playernames
+[       391] Authenticating server license key...
+[      1719] Server license key authentication succeeded. Welcome!
+[      1766] Sending heartbeat to live-internal.fivem.net:30110
+[      1781] Started resource fivem-map-hipster
+[      1781] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       140] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       140] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       140] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       187] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       187] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       203] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       218] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       218] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       234] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       250] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       250] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       297] Started resource sessionmanager
+[       312] Started resource mapmanager
+[       328] Started resource chat
+[       328] Started resource spawnmanager
+[       328] Started resource fivem
+[       328] Started gametype Freeroam
+[       343] Started resource hardcap
+[       359] Started resource rconlog
+[       359] Started resource scoreboard
+[       375] Started resource playernames
+[       375] Authenticating server license key...
+[       953] Server license key authentication succeeded. Welcome!
+[      1015] Sending heartbeat to live-internal.fivem.net:30110
+[      1031] Started resource fivem-map-hipster
+[      1031] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       125] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       187] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       187] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       187] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       234] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       234] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       234] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       281] Started resource sessionmanager
+[       297] Started resource mapmanager
+[       312] Started resource chat
+[       328] Started resource spawnmanager
+[       328] Started resource fivem
+[       328] Started gametype Freeroam
+[       344] Started resource hardcap
+[       344] Started resource rconlog
+[       359] Started resource scoreboard
+[       375] Started resource playernames
+[       375] Authenticating server license key...
+[      1703] Server license key authentication succeeded. Welcome!
+[      1766] Sending heartbeat to live-internal.fivem.net:30110
+[      1766] Started resource fivem-map-hipster
+[      1766] Started map fivem-map-hipster
+[        16] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       109] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource fivem in C:/zSv\Server-Teste/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/zSv\Server-Teste/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/zSv\Server-Teste/resources//fivem-map-hipster
+[       141] Found new resource fivem-map-skater in C:/zSv\Server-Teste/resources//fivem-map-skater
+[       141] Found new resource runcode in C:/zSv\Server-Teste/resources//runcode
+[       141] Found new resource race in C:/zSv\Server-Teste/resources//[gamemodes]/race
+[       156] Found new resource race-test in C:/zSv\Server-Teste/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/zSv\Server-Teste/resources//[gameplay]/channelfeed
+[       172] Found new resource irc in C:/zSv\Server-Teste/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/zSv\Server-Teste/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/zSv\Server-Teste/resources//[gameplay]/obituary-deaths
+[       187] Found new resource playernames in C:/zSv\Server-Teste/resources//[gameplay]/playernames
+[       187] Found new resource mapmanager in C:/zSv\Server-Teste/resources//[managers]/mapmanager
+[       203] Found new resource baseevents in C:/zSv\Server-Teste/resources//[system]/baseevents
+[       203] Found new resource chat in C:/zSv\Server-Teste/resources//[system]/chat
+[       203] Found new resource hardcap in C:/zSv\Server-Teste/resources//[system]/hardcap
+[       219] Found new resource rconlog in C:/zSv\Server-Teste/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/zSv\Server-Teste/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/zSv\Server-Teste/resources//[system]/sessionmanager
+[       234] Found new resource spawnmanager in C:/zSv\Server-Teste/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/zSv\Server-Teste/resources//[test]/betaguns
+[       250] Found new resource gameInit in C:/zSv\Server-Teste/resources//[test]/gameInit
+[       250] Found new resource keks in C:/zSv\Server-Teste/resources//[test]/keks
+[       250] Found new resource vrp in C:/zSv\Server-Teste/resources//[vRP]/vrp
+[       266] Found new resource vrp_mysql in C:/zSv\Server-Teste/resources//[vRP]/vrp_mysql
+[       312] Started resource sessionmanager
+[       328] Started resource mapmanager
+[       344] Started resource chat
+[       344] Started resource spawnmanager
+[       344] Started resource fivem
+[       359] Started gametype Freeroam
+[       359] Started resource hardcap
+[       375] Started resource rconlog
+[       375] Started resource scoreboard
+[       391] Started resource playernames
+[      1312] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_189333292
+[      1453] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[      1453] 
+[      1453] 
+[      1453] Server stack trace: 
+[      1453]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1453]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1453]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1453]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      1453]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1453]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      1453] 
+[      1469] Exception rethrown at [0]: 
+[      1469]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1469]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      1500] Instantiated instance of script vRP.MySQL.
+[      1547] Started resource vrp_mysql
+[      1937] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_189333292
+[      2203] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_189333292
+[      2594] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_189333292
+[      2672] [vRP] launch version 1498403827
+[      2719] [vRP] init base tables
+[      3453] Started resource vrp
+[      3453] Authenticating server license key...
+[      4891] Server license key authentication succeeded. Welcome!
+[      4937] Sending heartbeat to live-internal.fivem.net:30110
+[      5000] Started resource fivem-map-skater
+[      5000] Started map fivem-map-skater
+[     73047] Connecting: Lue ¯\_(ツ)_/¯
+[     73297] [vRP] Lue ¯\_(ツ)_/¯ (25.71.251.201) joined (user_id = 1)
+[     74797] Sending heartbeat to live-internal.fivem.net:30110
+[     75031] hitch warning: frame time of 233 milliseconds
+[    108328] Connecting: QAP COPOM csdust.com
+[    109156] [vRP] QAP COPOM csdust.com (25.92.137.82) joined (user_id = 2)
+[    112250] Sending heartbeat to live-internal.fivem.net:30110
+[    292281] Sending heartbeat to live-internal.fivem.net:30110
+[    472406] Sending heartbeat to live-internal.fivem.net:30110
+[    652422] Sending heartbeat to live-internal.fivem.net:30110
+[    652906] hitch warning: frame time of 484 milliseconds
+[    733437] [vRP] 25.71.251.201 disconnected (user_id = 1)
+[    733547] Sending heartbeat to live-internal.fivem.net:30110
+[    790016] Connecting: Lue ¯\_(ツ)_/¯
+[    790344] [vRP] Lue ¯\_(ツ)_/¯ (25.71.251.201) joined (user_id = 1)
+[    792937] Sending heartbeat to live-internal.fivem.net:30110
+[    972969] Sending heartbeat to live-internal.fivem.net:30110
+[    973125] hitch warning: frame time of 158 milliseconds
+[   1153156] Sending heartbeat to live-internal.fivem.net:30110
+[   1160875] [vRP] 25.92.137.82 disconnected (user_id = 2)
+[   1160875] Sending heartbeat to live-internal.fivem.net:30110
+[   1171562] [vRP] 25.71.251.201 disconnected (user_id = 1)
+[   1171578] Sending heartbeat to live-internal.fivem.net:30110
